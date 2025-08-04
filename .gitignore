@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env
+env/
+.venv/
+*.env
+
+# Models and data
+app/models/
+app/data/
+
+# VSCode or IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
